@@ -14,3 +14,8 @@ hr{
 h3{
   color: #F47C7C;
 }
+
+.prof-img{
+  border-radius: 100%;
+  border: 6px solid #fff;
+}
