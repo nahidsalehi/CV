@@ -15,7 +15,12 @@ h3{
   color: #F47C7C;
 }
 
+.name{
+  margin-top: 2%;
+  margin-bottom: 4%;
+}
+
 .prof-img{
-  border-radius: 100%;
+  /* border-radius: 100%; */
   border: 6px solid #fff;
 }
